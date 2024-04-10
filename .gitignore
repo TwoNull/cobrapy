@@ -302,3 +302,6 @@ gurobi.log
 /documentation_builder/test*\.*
 /.benchmarks
 /.testmondata
+
+# Wakatime
+.wakatime-project
